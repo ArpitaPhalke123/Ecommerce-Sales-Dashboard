@@ -1,29 +1,48 @@
 # 🛒 Ecommerce Sales Dashboard (Power BI)
 
-This Power BI project presents a comprehensive dashboard to track and analyze online sales data from an eCommerce platform.
+This project presents an interactive Power BI dashboard to track and analyze online sales performance for an eCommerce business.
 
-## 📊 Key Features
+---
 
-- Interactive dashboard with drill-down analysis
-- Filters and slicers for customized views
-- Data modeling and calculated measures
-- Visual insights into sales performance, customer trends, and product categories
+## 🔍 Project Highlights
 
-## 🧠 Project Learnings
+- Created an interactive dashboard to monitor and analyze online sales data.
+- Used complex parameters to enable drill-down functionality with filters and slicers.
+- Connected and joined multiple tables; used calculated fields and measures for advanced analytics.
+- Implemented user-driven parameters for dynamic visualizations.
 
-- Created an interactive dashboard to track and analyze online sales data
-- Used complex parameters to drill down in worksheets using filters and slicers
-- Connected and joined multiple tables with calculated fields and user-defined parameters
-- Visualized insights with:
-  - Bar Chart, Pie Chart, Donut Chart
-  - Clustered Bar Chart, Line Chart, Scatter Plot
-  - Area Chart, Map, and Slicers
+---
+
+## 📊 Visualizations Used
+
+- Bar Chart
+- Pie Chart
+- Donut Chart
+- Clustered Bar Chart
+- Scatter Chart
+- Line Chart
+- Area Chart
+- Map
+- Slicers
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Power BI data modeling and transformation
+- Dashboard and report creation
+- DAX measures and calculated columns
+- Data visualization best practices
+
+---
+
+## 📁 Project File
+
+- [`Ecommerce Sales Dashboard.pbix`](Ecommerce%20Sales%20Dashboard.pbix)
+
+---
 
 ## 🖼 Dashboard Preview
 
 ![Dashboard Preview](Dashboard.jpg)
-
-## 📁 File Included
-
-- `Ecommerce Sales Dashboard.pbix` – Main Power BI file
 
