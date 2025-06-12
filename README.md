@@ -21,7 +21,7 @@ This Power BI project presents a comprehensive dashboard to track and analyze on
 
 ## 🖼 Dashboard Preview
 
-*(Add a screenshot here: `dashboard.png`)*
+![Dashboard Preview](Dashboard.jpg)
 
 ## 📁 File Included
 
