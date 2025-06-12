@@ -2,16 +2,12 @@
 
 This project presents an interactive Power BI dashboard to track and analyze online sales performance for an eCommerce business.
 
----
-
 ## 🔍 Project Highlights
 
 - Created an interactive dashboard to monitor and analyze online sales data.
-- Used complex parameters to enable drill-down functionality with filters and slicers.
-- Connected and joined multiple tables; used calculated fields and measures for advanced analytics.
-- Implemented user-driven parameters for dynamic visualizations.
-
----
+- Used drill-down features with filters and slicers for deeper insights.
+- Connected and joined multiple tables using relationships and transformations.
+- Used user-driven parameters and DAX measures for dynamic visualizations.
 
 ## 📊 Visualizations Used
 
@@ -25,8 +21,6 @@ This project presents an interactive Power BI dashboard to track and analyze onl
 - Map
 - Slicers
 
----
-
 ## 🧠 Skills Demonstrated
 
 - Power BI data modeling and transformation
@@ -34,13 +28,9 @@ This project presents an interactive Power BI dashboard to track and analyze onl
 - DAX measures and calculated columns
 - Data visualization best practices
 
----
-
 ## 📁 Project File
 
 - [`Ecommerce Sales Dashboard.pbix`](Ecommerce%20Sales%20Dashboard.pbix)
-
----
 
 ## 🖼 Dashboard Preview
 
